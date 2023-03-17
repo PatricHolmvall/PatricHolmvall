@@ -1,16 +1,14 @@
-### Hi there 👋
+# Patric Holmvall
 
-<!--
-**PatricHolmvall/PatricHolmvall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+More active on [gitlab](https://gitlab.com/Holmvall).
 
-Here are some ideas to get you started:
+### Postdoc researcher
+- Main field: condensed matter physics
+- Main topics: superconductivity, quantum information ([Google scholar](https://scholar.google.se/citations?user=Xheu2wcAAAAJ&hl=en))
+- Codes: [SuperConga](https://gitlab.com/superconga/superconga), [FidelityOptim](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.2.010327)
+- Affiliation: Uppsala University (Sweden)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Research Software Engineer
+- Board member in [Nordic-RSE](https://nordic-rse.org/)
+- HPC enthusiast: GPU and CPU parallelization (CUDA, HIP, SYCL, OpenMP, ...)
+-  Reproducible research: [CodeRefinery](https://coderefinery.org/)
